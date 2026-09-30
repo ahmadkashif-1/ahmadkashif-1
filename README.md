@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/profile/assets/profile-banner.svg" alt="Learning to build intelligent systems with AI and software" width="100%">
+  <img src=".github/profile/assets/ai-learning-banner.svg" alt="Learning to build intelligent systems with AI and software" width="100%">
 </p>
 
 # Ahmad Kashif
