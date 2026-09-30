@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-labelledby="title desc">
+  <title id="title">My AI engineering learning focus</title>
+  <desc id="desc">Python, AI foundations, data, and practical projects.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101827"/>
+      <stop offset="1" stop-color="#17283a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="150" rx="18" fill="url(#bg)"/>
+  <rect x="28" y="28" width="4" height="94" rx="2" fill="#63d6c3"/>
+  <text x="54" y="54" fill="#91a4b8" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.4">CURRENT FOCUS</text>
+  <text x="54" y="88" fill="#f3f6fb" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="700">Learning the foundations of AI engineering</text>
+  <text x="54" y="116" fill="#b7c5d5" font-family="Segoe UI, Arial, sans-serif" font-size="15">Python  /  AI fundamentals  /  data  /  practical projects</text>
+  <circle cx="925" cy="45" r="48" fill="#63d6c3" opacity="0.08"/>
+  <circle cx="956" cy="119" r="63" fill="#70a8ff" opacity="0.08"/>
+</svg>
