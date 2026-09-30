@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="title desc">
+  <title id="title">Ahmad Kashif - Backend Developer</title>
+  <desc id="desc">A visual introduction to Python backend development, API engineering, databases, and graph data.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101827"/><stop offset="1" stop-color="#172b3a"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#42d3b4"/><stop offset="1" stop-color="#77a9ff"/></linearGradient>
+  </defs>
+  <rect width="1000" height="280" rx="24" fill="url(#bg)"/>
+  <circle cx="875" cy="75" r="145" fill="#42d3b4" opacity=".07"/>
+  <circle cx="970" cy="255" r="130" fill="#77a9ff" opacity=".08"/>
+  <rect x="48" y="40" width="6" height="78" rx="3" fill="url(#accent)"/>
+  <text x="76" y="73" fill="#91a4b8" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3">PYTHON BACKEND DEVELOPMENT</text>
+  <text x="74" y="119" fill="#f3f7fb" font-family="Segoe UI,Arial,sans-serif" font-size="40" font-weight="700">Building useful things with data</text>
+  <text x="76" y="157" fill="#c1ceda" font-family="Segoe UI,Arial,sans-serif" font-size="18">APIs, database-backed apps, and intelligent systems</text>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">
+    <rect x="76" y="196" width="115" height="36" rx="18" fill="#183e43" stroke="#42d3b4" stroke-opacity=".55"/><text x="133" y="219" text-anchor="middle" fill="#a4f1df">Python</text>
+    <rect x="202" y="196" width="116" height="36" rx="18" fill="#183e43" stroke="#42d3b4" stroke-opacity=".55"/><text x="260" y="219" text-anchor="middle" fill="#a4f1df">FastAPI</text>
+    <rect x="329" y="196" width="136" height="36" rx="18" fill="#183e43" stroke="#42d3b4" stroke-opacity=".55"/><text x="397" y="219" text-anchor="middle" fill="#a4f1df">PostgreSQL</text>
+    <rect x="476" y="196" width="132" height="36" rx="18" fill="#25364c" stroke="#77a9ff" stroke-opacity=".6"/><text x="542" y="219" text-anchor="middle" fill="#c4d8ff">SQLAlchemy</text>
+    <rect x="619" y="196" width="83" height="36" rx="18" fill="#25364c" stroke="#77a9ff" stroke-opacity=".6"/><text x="660" y="219" text-anchor="middle" fill="#c4d8ff">Neo4j</text>
+  </g>
+  <text x="950" y="252" text-anchor="end" fill="#73869a" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="1">LEARN · BUILD · SHARE</text>
+</svg>
